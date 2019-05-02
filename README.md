@@ -1,1 +1,1 @@
-# Python_Small_Projects
+Tech Academy Python drills
